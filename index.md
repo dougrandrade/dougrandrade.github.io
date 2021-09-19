@@ -10,4 +10,5 @@ Content I have developed:
 
 - [Endagered Names Repository](https://github.com/dougrandrade/NamesRepo)
 
-[![LinkedIn Profile](LinkedInLogo.ico = 250x250)](https://www.linkedin.com/in/douglasrandrade/)
+#[![LinkedIn Profile](LinkedInLogo.ico = 250x250)](https://www.linkedin.com/in/douglasrandrade/)
+<img src = LinkedInLogo.ico width = "100">(https://www.linkedin.com/in/douglasrandrade/)
