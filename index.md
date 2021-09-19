@@ -10,4 +10,4 @@ Content I have developed:
 
 - [Endagered Names Repository](https://github.com/dougrandrade/NamesRepo)
 
-[![LinkedIn Profile](LinkedInLogo.ico)](https://www.linkedin.com/in/douglasrandrade/)
+[![LinkedIn Profile](linkedin-small-icon-17.jpg)](https://www.linkedin.com/in/douglasrandrade/)
