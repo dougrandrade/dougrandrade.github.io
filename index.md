@@ -1,7 +1,7 @@
 ---
 title: Project Porfolio
 description: A collection of academic and personal projects 
-by Doug Andrade
+author: Doug Andrade
 ---
 ![My Picture](/raymond-a-mason-school-of-business-footer-logo.png)
 
