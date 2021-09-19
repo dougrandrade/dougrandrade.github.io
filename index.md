@@ -1,5 +1,5 @@
 ---
-title: Project Porfolio - Doug Andrade
+title: Porfolio - Doug Andrade
 description: A collection of academic and personal projects 
 author: Doug Andrade
 ---
