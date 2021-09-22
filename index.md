@@ -6,7 +6,7 @@ author: Doug Andrade
 ![](/raymond-a-mason-school-of-business-footer-logo.png)
 
 Content I have developed:
-- [U.S. Endangered Name of Our Century](/US_Name_Records/index.md) 
+- [U.S. Endangered Names of Our Century](/US_Name_Records/index.md) 
 
 - [Endagered Names Repository](https://github.com/dougrandrade/NamesRepo)
 
