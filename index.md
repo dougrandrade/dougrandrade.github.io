@@ -8,6 +8,6 @@ author: Doug Andrade
 Content I have developed:
 - [U.S. Endangered Names of Our Century](/US_Name_Records/index.md) 
 
-- [Endagered Names Repository](https://github.com/dougrandrade/NamesRepo)
+- [Endangered Names Repository](https://github.com/dougrandrade/NamesRepo)
 
 [![](LinkedInLogo.ico)](https://www.linkedin.com/in/douglasrandrade/)
