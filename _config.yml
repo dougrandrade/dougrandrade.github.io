@@ -1,6 +1,6 @@
 title: Project Portfolio
 description: A collection of academic and personal projects
 author: Doug Andrade
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-tactile
