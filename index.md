@@ -1,6 +1,6 @@
 ---
 title: Porfolio - Doug Andrade
-description: A collection of academic and personal projects 
+description: A collection of personal analytical and machine learning projects 
 author: Doug Andrade
 ---
 ![](/raymond-a-mason-school-of-business-footer-logo.png)
