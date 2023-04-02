@@ -4,7 +4,6 @@ description: A collection of academic and personal projects
 author: Doug Andrade
 ---
 ![](/raymond-a-mason-school-of-business-footer-logo.png)
-
 Content I have developed:
 - [U.S. Endangered Names of Our Century](/US_Name_Records/index.md) 
 
