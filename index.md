@@ -4,7 +4,9 @@ description: A collection of personal analytical and machine learning projects
 author: Doug Andrade
 ---
 Who am I?
-![2008 Graduate with a Bachelor of Science in Political Science](/usnacrest.png){: width="50" height="40"}
+
+<img src="usnacrest.png" alt="2008 Graduate with a Bachelor of Science in Political Science" width="300" height="200">
+
 ![](/raymond-a-mason-school-of-business-footer-logo.png)
 
 Content I have developed:
