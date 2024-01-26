@@ -7,9 +7,9 @@ Who am I?
 
 A graduate of 
 
-![2008 Bachelor of Science in Political Science](/usnacrest.png){: width="100" height="250"}
+![2008 Bachelor of Science in Political Science](/usnacrest.png){: width="100" height="200"}
 
-![2021 MBA and 2023 MSBA](/raymond-a-mason-school-of-business-footer-logo.png){: width="200" height="40"}
+![2021 MBA and 2023 MSBA](/raymond-a-mason-school-of-business-footer-logo.png){: width="200" height="60"}
 
 Content I have developed:
 - [U.S. Endangered Names of Our Century](/US_Name_Records/index.md) 
