@@ -6,7 +6,7 @@ author: Doug Andrade
 
 <style>
   body {
-    max-width: 1500px; /* Adjust the width as needed */
+    max-width: 2000px; /* Adjust the width as needed */
     margin: 0 auto; /* Center the content horizontally */
   }
 </style>
@@ -20,7 +20,7 @@ author: Doug Andrade
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: -10px 0 20px;">
   <figure style="width:13%; margin: 10px 0;">
     <img src="NAPS_crest.png" alt="NAPS_crest" style="width:100%">
-    <figcaption>2004 Graduate and admitted the U.S. Naval Academy</figcaption>
+    <figcaption>2004 graduate and admitted the U.S. Naval Academy</figcaption>
   </figure>
 
   <figure style="width:18%; margin: 10px 0;">
