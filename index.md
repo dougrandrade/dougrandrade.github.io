@@ -3,13 +3,15 @@ title: Analytics Porfolio - Doug Andrade
 description: A collection of personal analytical and machine learning projects 
 author: Doug Andrade
 ---
-### Who am I?
+<div style="text-align: center;">
+  #### Who am I?
+</div>
 
-##### A graduate of:
+#### A graduate of:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin: -10px 0 20px;">
   <figure style="width:13%; margin: 10px 0;">
-    <img src="NAPS_logo.png" alt="NAPS_crest" style="width:100%">
+    <img src="NAPS_crest.png" alt="NAPS_crest" style="width:100%">
     <figcaption>2004 Graduate and admitted the U.S. Naval Academy</figcaption>
   </figure>
 
@@ -29,7 +31,7 @@ author: Doug Andrade
   </figure>
 </div>
 
-\n#### A dedicated service as a U.S. Naval Officer:
+#### A dedicated service as a U.S. Naval Officer:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin: -10px 0 20px;">
   <figure style="width:23%; margin: 10px 0;">
@@ -43,7 +45,7 @@ author: Doug Andrade
   </figure>
 
   <figure style="width:23%; margin: 10px 0;">
-    <img src="VAW124_E-2.png" alt="W&M_crest" style="width:100%">
+    <img src="CVN72_logo.png" alt="W&M_crest" style="width:100%">
     <figcaption>2017-2019 CVN 72 Tactical Action Officer in 6th and 5th Fleets</figcaption>
   </figure>
 
