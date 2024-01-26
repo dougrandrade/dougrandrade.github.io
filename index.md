@@ -12,7 +12,7 @@ author: Doug Andrade
 </style>
 
 <div style="text-align: center;">
-  # Who am I?
+  **Who am I?**
 </div>
 
 #### A graduate of:
