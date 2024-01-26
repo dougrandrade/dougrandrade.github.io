@@ -33,12 +33,12 @@ A dedicated service as a U.S. Naval Officer:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: -10px;">
   <figure style="width:23%; margin: 10px 0;">
-    <img src="NFO_wingsjpg" alt="NFO_wings" style="width:100%">
+    <img src="NFO_wings.jpg" alt="NFO_wings" style="width:100%">
     <figcaption>2010 qualifed E-2 Hawkeye Naval Flight Officer</figcaption>
   </figure>
 
   <figure style="width:23%; margin: 10px 0;">
-    <img src="E-2_clip.jpg" alt="E-2_clip" style="width:100%">
+    <img src="E-2_clip.jpg" alt="VAW-124_E-2" style="width:100%">
     <figcaption>2011-2016 VAW-124 Instructor and Mission Commander in combat missions</figcaption>
   </figure>
 
@@ -48,12 +48,12 @@ A dedicated service as a U.S. Naval Officer:
   </figure>
 
   <figure style="width:23%; margin: 10px 0;">
-    <img src="NPS_logo.jpg" alt="NPS_crest" style="width:100%">
+    <img src="VAW120_E-2.jpg" alt="VAW-120_E-2" style="width:100%">
     <figcaption>2019-2022 VAW-120 Instructor and Department Head</figcaption>
   </figure>
 
   <figure style="width:23%; margin: 10px 0;">
-    <img src="NPS_logo.jpg" alt="NPS_crest" style="width:100%">
+    <img src="OPNAV_logo" alt="OPNAV_N2N6_logo" style="width:100%">
     <figcaption>OPNAV N2N6 Requirements Officer</figcaption>
   </figure>
 </div>
