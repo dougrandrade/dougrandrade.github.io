@@ -5,7 +5,7 @@ author: Doug Andrade
 ---
 Who am I?
 
-A graduate of 
+#### A graduate of:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: -10px;">
   <figure style="width:23%; margin: 10px 0;">
@@ -29,10 +29,34 @@ A graduate of
   </figure>
 </div>
 
+A dedicated service as a U.S. Naval Officer:
 
-![2008 Bachelor of Science in Political Science](/usnacrest.png){: width="80" height="130"}
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: -10px;">
+  <figure style="width:23%; margin: 10px 0;">
+    <img src="NFO_wingsjpg" alt="NFO_wings" style="width:100%">
+    <figcaption>2010 qualifed E-2 Hawkeye Naval Flight Officer</figcaption>
+  </figure>
 
-![2021 MBA and 2023 MSBA](/raymond-a-mason-school-of-business-footer-logo.png){: width="200" height="60"}
+  <figure style="width:23%; margin: 10px 0;">
+    <img src="E-2_clip.jpg" alt="E-2_clip" style="width:100%">
+    <figcaption>2011-2016 VAW-124 Instructor and Mission Commander in combat missions</figcaption>
+  </figure>
+
+  <figure style="width:23%; margin: 10px 0;">
+    <img src="raymond-a-mason-school-of-business-footer-logo.png" alt="W&M_crest" style="width:100%">
+    <figcaption>2017-2019 CVN 72 Tactical Action Officer in 6th and 5th Fleets</figcaption>
+  </figure>
+
+  <figure style="width:23%; margin: 10px 0;">
+    <img src="NPS_logo.jpg" alt="NPS_crest" style="width:100%">
+    <figcaption>2019-2022 VAW-120 Instructor and Department Head</figcaption>
+  </figure>
+
+  <figure style="width:23%; margin: 10px 0;">
+    <img src="NPS_logo.jpg" alt="NPS_crest" style="width:100%">
+    <figcaption>OPNAV N2N6 Requirements Officer</figcaption>
+  </figure>
+</div>
 
 Content I have developed:
 - [U.S. Endangered Names of Our Century](/US_Name_Records/index.md) 
