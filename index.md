@@ -6,27 +6,28 @@ author: Doug Andrade
 Who am I?
 
 A graduate of 
-<figure>
-  <img src="NAPS_logo.jpg" alt="NAPS_crest" style="width:25%">
-  <figcaption>2004 Graduate</figcaption>
-</figure>
 
-<figure>
-  <img src="usnacrest.png" alt="USNA_crest" style="width:25%">
-  <figcaption>2008 Bachelor of Science in Political Science</figcaption>
-</figure>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: -10px;">
+  <figure style="width:23%; margin: 10px 0;">
+    <img src="NAPS_logo.jpg" alt="NAPS_crest" style="width:100%">
+    <figcaption>2004 Graduate and admitted the U.S. Naval Academy</figcaption>
+  </figure>
 
-<figure>
-  <img src="raymond-a-mason-school-of-business-footer-logo.png" alt="W&M_crest" style="width:25%">
-  <figcaption>2021 MBA & 2023 Master of Science in Business Analytics</figcaption>
-</figure>
+  <figure style="width:23%; margin: 10px 0;">
+    <img src="usnacrest.png" alt="USNA_crest" style="width:100%">
+    <figcaption>2008 Bachelor of Science in Political Science</figcaption>
+  </figure>
 
-<figure>
-  <img src="NPS_logo.jpg" alt="NPS_crest" style="width:25%">
-  <figcaption>Prospective 2024 Data Science Certification</figcaption>
-</figure>
+  <figure style="width:23%; margin: 10px 0;">
+    <img src="raymond-a-mason-school-of-business-footer-logo.png" alt="W&M_crest" style="width:100%">
+    <figcaption>2021 MBA & 2023 Master of Science in Business Analytics</figcaption>
+  </figure>
 
-
+  <figure style="width:23%; margin: 10px 0;">
+    <img src="NPS_logo.jpg" alt="NPS_crest" style="width:100%">
+    <figcaption>Prospective 2024 Data Science Certification</figcaption>
+  </figure>
+</div>
 
 
 ![2008 Bachelor of Science in Political Science](/usnacrest.png){: width="80" height="130"}
