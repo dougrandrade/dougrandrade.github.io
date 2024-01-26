@@ -3,17 +3,17 @@ title: Analytics Porfolio - Doug Andrade
 description: A collection of personal analytical and machine learning projects 
 author: Doug Andrade
 ---
-Who am I?
+### Who am I?
 
-#### A graduate of:
+##### A graduate of:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin: -10px;">
-  <figure style="width:23%; margin: 10px 0;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin: -10px 0 20px;">
+  <figure style="width:13%; margin: 10px 0;">
     <img src="NAPS_logo.jpg" alt="NAPS_crest" style="width:100%">
     <figcaption>2004 Graduate and admitted the U.S. Naval Academy</figcaption>
   </figure>
 
-  <figure style="width:23%; margin: 10px 0;">
+  <figure style="width:18%; margin: 10px 0;">
     <img src="usnacrest.png" alt="USNA_crest" style="width:100%">
     <figcaption>2008 Bachelor of Science in Political Science</figcaption>
   </figure>
@@ -29,9 +29,9 @@ Who am I?
   </figure>
 </div>
 
-A dedicated service as a U.S. Naval Officer:
+\n#### A dedicated service as a U.S. Naval Officer:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin: -10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin: -10px 0 20px;">
   <figure style="width:23%; margin: 10px 0;">
     <img src="NFO_wings.jpg" alt="NFO_wings" style="width:100%">
     <figcaption>2010 qualified E-2 Hawkeye Naval Flight Officer</figcaption>
