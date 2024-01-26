@@ -85,7 +85,9 @@ author: Doug Andrade
 
   <figure style="width:23%; margin: 10px 0;">
     <img src="OPNAV_N2N6_logo.png" alt="OPNAV_N2N6_logo" style="width:100%">
-    <figcaption>2022-Present OPNAV N2N6 ATDL Requirements Officer</figcaption>
+    <figcaption>
+      2022-Present 
+      OPNAV N2N6 ATDL Requirements Officer</figcaption>
   </figure>
 </div>
 
