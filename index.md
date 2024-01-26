@@ -6,7 +6,7 @@ author: Doug Andrade
 
 <style>
   body {
-    max-width: 2000px; /* Adjust the width as needed */
+    max-width: 4000px; /* Adjust the width as needed */
     margin: 0 auto; /* Center the content horizontally */
   }
 </style>
