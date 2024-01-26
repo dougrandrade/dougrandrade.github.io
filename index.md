@@ -6,14 +6,14 @@ author: Doug Andrade
 
 <style>
   body {
-    max-width: 4000px; /* Adjust the width as needed */
+    max-width: 10000px; /* Adjust the width as needed */
     margin: 0 auto; /* Center the content horizontally */
   }
 </style>
 
 ## **Who am I?**
 
-#### A graduate of:
+#### Graduate of:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: -10px 0 20px;">
   <figure style="width:13%; margin: 10px 0;">
@@ -38,11 +38,11 @@ author: Doug Andrade
 
   <figure style="width:23%; margin: 10px 0;">
     <img src="NPS_crest.png" alt="NPS_crest" style="width:100%">
-    <figcaption>2023-2024 Prospective 2024 Data Science Certification</figcaption>
+    <figcaption>2023-2024 Prospective Data Science Certification</figcaption>
   </figure>
 </div>
 
-#### A dedicated service as a U.S. Naval Officer:
+#### Dedicated Naval Officer:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: -10px 0 20px;">
   <figure style="width:23%; margin: 10px 0;">
