@@ -3,7 +3,8 @@ title: Porfolio - Doug Andrade
 description: A collection of personal analytical and machine learning projects 
 author: Doug Andrade
 ---
-
+Who am I?
+![](/usnacrest.png)
 ![](/raymond-a-mason-school-of-business-footer-logo.png)
 
 Content I have developed:
