@@ -1,9 +1,11 @@
 ---
-title: Porfolio - Doug Andrade
+title: Analytics Porfolio - Doug Andrade
 description: A collection of personal analytical and machine learning projects 
 author: Doug Andrade
 ---
 Who am I?
+
+A graduate of 
 
 - <img src="usnacrest.png" alt="2008 Graduate with a Bachelor of Science in Political Science" width="200" height="230">
 
