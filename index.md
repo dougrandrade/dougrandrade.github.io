@@ -7,7 +7,7 @@ Who am I?
 
 - <img src="usnacrest.png" alt="2008 Graduate with a Bachelor of Science in Political Science" width="200" height="230">
 
-![](/raymond-a-mason-school-of-business-footer-logo.png)
+![](/raymond-a-mason-school-of-business-footer-logo.png){: width="300" height="200"}
 
 Content I have developed:
 - [U.S. Endangered Names of Our Century](/US_Name_Records/index.md) 
