@@ -5,7 +5,7 @@ author: Doug Andrade
 ---
 Who am I?
 
-<img src="usnacrest.png" alt="2008 Graduate with a Bachelor of Science in Political Science" width="200" height="280">
+<img src="usnacrest.png" alt="2008 Graduate with a Bachelor of Science in Political Science" width="100" height="180">
 
 ![](/raymond-a-mason-school-of-business-footer-logo.png)
 
