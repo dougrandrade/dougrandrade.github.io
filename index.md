@@ -9,7 +9,7 @@ A graduate of
 
 - <img src="usnacrest.png" alt="2008 Graduate with a Bachelor of Science in Political Science" width="100" height="130">
 
-![2021 MBA and 2023 MSBA](/raymond-a-mason-school-of-business-footer-logo.png){: width="200" height="100"}
+![2021 MBA and 2023 MSBA](/raymond-a-mason-school-of-business-footer-logo.png){: width="300" height="100"}
 
 Content I have developed:
 - [U.S. Endangered Names of Our Century](/US_Name_Records/index.md) 
