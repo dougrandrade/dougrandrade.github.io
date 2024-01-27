@@ -19,7 +19,7 @@ author: Doug Andrade
   }
 
   .image-container figure {
-    width: 18%; /* Adjust the width as needed */
+    width: 10%; /* Adjust the width as needed */
     margin: 10px 0;
     text-align: center;
   }
@@ -31,7 +31,7 @@ author: Doug Andrade
 
 ## **Who am I?**
 
-#### Graduate of: 2
+#### Graduate of: 0
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: -10px 0 20px;">
   <figure style="width:13%; margin: 10px 0;">
