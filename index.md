@@ -19,7 +19,7 @@ author: Doug Andrade
   }
 
   .image-container figure {
-    width: 10%; /* Adjust the width as needed */
+    width: 20%; /* Adjust the width as needed */
     margin: 10px 0;
     text-align: center;
   }
@@ -36,7 +36,7 @@ author: Doug Andrade
 
 ## **Who am I?**
 
-#### Graduate of: 1
+#### Graduate of: 0
 
 <div class="image-container">
   <!-- Image and caption 1 -->
@@ -72,37 +72,37 @@ author: Doug Andrade
 
 #### Dedicated Naval Officer:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: -10px 0 20px;">
+<div class="image-container">
   <figure>
-    <img src="NFO_wings.png" alt="NFO_wings" style="width:100%">
+    <img src="NFO_wings.png" alt="NFO_wings">
     <figcaption>
       2008-2011 
       Qualified Naval Flight Officer</figcaption>
   </figure>
 
   <figure>
-    <img src="VAW124_E-2.png" alt="VAW-124_E-2" style="width:100%">
+    <img src="VAW124_E-2.png" alt="VAW-124_E-2">
     <figcaption>
       2011-2016 
       VAW-124 Instructor & Mission Commander</figcaption>
   </figure>
 
   <figure>
-    <img src="CVN72_logo.png" alt="W&M_crest" style="width:100%">
+    <img src="CVN72_logo.png" alt="W&M_crest">
     <figcaption>
       2017-2019 
       CVN72 Tactical Action Officer - 6th/5th Fleets</figcaption>
   </figure>
 
   <figure>
-    <img src="VAW120_E-2.png" alt="VAW-120_E-2" style="width:100%">
+    <img src="VAW120_E-2.png" alt="VAW-120_E-2">
     <figcaption>
       2019-2022 
       VAW-120 Instructor and Department Head</figcaption>
   </figure>
 
   <figure>
-    <img src="OPNAV_N2N6_logo.png" alt="OPNAV_N2N6_logo" style="width:100%">
+    <img src="OPNAV_N2N6_logo.png" alt="OPNAV_N2N6_logo">
     <figcaption>
       2022-Present 
       OPNAV N2N6 ATDL Requirements Officer</figcaption>
