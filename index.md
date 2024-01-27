@@ -27,81 +27,81 @@ author: Doug Andrade
   .image-container img {
     width: 100%;
   }
+  
+  .image-container figcaption {
+    font-size: 12px; /* Adjust the font size as needed */
+  }
+  
 </style>
 
 ## **Who am I?**
 
-#### Graduate of: 0
+#### Graduate of: 1
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: -10px 0 20px;">
-  <figure style="width:13%; margin: 10px 0;">
-    <img src="NAPS_crest.png" alt="NAPS_crest" style="width:100%">
-    <figcaption>
-      2003-2004 
-      Graduate, accepted to the Naval Academy</figcaption>
+<div class="image-container">
+  <!-- Image and caption 1 -->
+  <figure>
+    <img src="NAPS_crest.png" alt="NAPS_crest">
+    <figcaption>2003-2004 Graduate, accepted to the Naval Academy</figcaption>
   </figure>
 
-  <figure style="width:18%; margin: 10px 0;">
-    <img src="USNA_crest.png" alt="USNA_crest" style="width:100%">
-    <figcaption>
-      2004-2008 
-      Bachelor of Science in Political Science</figcaption>
+  <!-- Image and caption 2 -->
+  <figure>
+    <img src="USNA_crest.png" alt="USNA_crest">
+    <figcaption>2004-2008 Bachelor of Science in Political Science</figcaption>
   </figure>
 
-  <figure style="width:23%; margin: 10px 0;">
-    <img src="W&M_B_logo.png" alt="W&M_crest" style="width:100%">
-    <figcaption>
-      2016-2021 
-      Master of Business Administration</figcaption>
+  <!-- Image and caption 3 -->
+  <figure>
+    <img src="W&M_B_logo.png" alt="W&M_crest">
+    <figcaption>2016-2021 Master of Business Administration</figcaption>
   </figure>
 
-  <figure style="width:23%; margin: 10px 0;">
-    <img src="W&M_B_logo.png" alt="W&M_crest" style="width:100%">
-    <figcaption>
-      2011-2023 
-      Master of Science in Business Analytics</figcaption>
+  <!-- Image and caption 4 -->
+  <figure>
+    <img src="W&M_B_logo.png" alt="W&M_crest">
+    <figcaption>2011-2023 Master of Science in Business Analytics</figcaption>
   </figure>
 
-  <figure style="width:23%; margin: 10px 0;">
-    <img src="NPS_crest.png" alt="NPS_crest" style="width:100%">
-    <figcaption>
-      2023-2024 
-      Prospective Data Science Certification</figcaption>
+  <!-- Image and caption 5 -->
+  <figure>
+    <img src="NPS_crest.png" alt="NPS_crest">
+    <figcaption>2023-2024 Prospective Data Science Certification</figcaption>
   </figure>
 </div>
 
 #### Dedicated Naval Officer:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: -10px 0 20px;">
-  <figure style="width:23%; margin: 10px 0;">
+  <figure>
     <img src="NFO_wings.png" alt="NFO_wings" style="width:100%">
     <figcaption>
       2008-2011 
       Qualified Naval Flight Officer</figcaption>
   </figure>
 
-  <figure style="width:23%; margin: 10px 0;">
+  <figure>
     <img src="VAW124_E-2.png" alt="VAW-124_E-2" style="width:100%">
     <figcaption>
       2011-2016 
       VAW-124 Instructor & Mission Commander</figcaption>
   </figure>
 
-  <figure style="width:23%; margin: 10px 0;">
+  <figure>
     <img src="CVN72_logo.png" alt="W&M_crest" style="width:100%">
     <figcaption>
       2017-2019 
       CVN72 Tactical Action Officer - 6th/5th Fleets</figcaption>
   </figure>
 
-  <figure style="width:23%; margin: 10px 0;">
+  <figure>
     <img src="VAW120_E-2.png" alt="VAW-120_E-2" style="width:100%">
     <figcaption>
       2019-2022 
       VAW-120 Instructor and Department Head</figcaption>
   </figure>
 
-  <figure style="width:23%; margin: 10px 0;">
+  <figure>
     <img src="OPNAV_N2N6_logo.png" alt="OPNAV_N2N6_logo" style="width:100%">
     <figcaption>
       2022-Present 
