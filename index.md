@@ -1,5 +1,7 @@
 ---
-title: Analytics Porfolio - Doug Andrade
+title: |
+  Analytics Porfolio
+  Doug Andrade
 description: A collection of personal analytical and machine learning projects 
 author: Doug Andrade
 ---
@@ -19,7 +21,7 @@ author: Doug Andrade
   }
 
   .image-container figure {
-    width: 25%; /* Adjust the width as needed */
+    width: 22%; /* Adjust the width as needed */
     margin: 10px 0;
     text-align: center;
   }
@@ -36,7 +38,7 @@ author: Doug Andrade
 
 ## **Who am I?**
 
-#### Graduate of: 0
+#### Graduate of: 1
 
 <div class="image-container">
   <!-- Image and caption 1 -->
@@ -118,7 +120,7 @@ Content I have developed:
 
 <style>
   .linkedin-logo {
-    width: 50%; /* Adjust the width as needed */
+    width: 22%; /* Adjust the width as needed */
   }
 </style>
 
