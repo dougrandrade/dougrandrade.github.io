@@ -19,7 +19,7 @@ author: Doug Andrade
   }
 
   .image-container figure {
-    width: 20%; /* Adjust the width as needed */
+    width: 25%; /* Adjust the width as needed */
     margin: 10px 0;
     text-align: center;
   }
@@ -115,5 +115,11 @@ Content I have developed:
 - [U.S. Endangered Names of Our Century](/US_Name_Records/index.md) 
 
 - [Endangered Names Repository](https://github.com/dougrandrade/NamesRepo)
+
+<style>
+  .linkedin-logo {
+    width: 50%; /* Adjust the width as needed */
+  }
+</style>
 
 [![](LinkedInLogo.ico)](https://www.linkedin.com/in/douglasrandrade/)
