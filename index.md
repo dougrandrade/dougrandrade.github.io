@@ -13,7 +13,7 @@ author: Doug Andrade
 
 <style>
   body {
-    max-width: 80%;
+    max-width: 200%;
     margin: 0 auto;
   }
 
@@ -37,7 +37,7 @@ author: Doug Andrade
 
 ## **Who am I?**
 
-#### Graduate of:
+#### Graduate of: 1
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: -10px 0 20px;">
   <figure style="width:13%; margin: 10px 0;">
