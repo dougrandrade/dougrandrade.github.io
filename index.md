@@ -25,10 +25,6 @@ author: Doug Andrade
     margin: 10px 0;
     text-align: center;
   }
-
-  .image-container img {
-    width: 100%;
-  }
   
   .image-container figcaption {
     font-size: 12px; /* Adjust the font size as needed */
@@ -38,7 +34,7 @@ author: Doug Andrade
 
 ## **Who am I?**
 
-#### Graduate of: 1
+#### Graduate of: 0
 
 <div class="image-container">
   <!-- Image and caption 1 -->
@@ -113,15 +109,16 @@ author: Doug Andrade
 
 
 
-Content I have developed:
+#### Content I have developed:
 - [U.S. Endangered Names of Our Century](/US_Name_Records/index.md) 
-
 - [Endangered Names Repository](https://github.com/dougrandrade/NamesRepo)
 
-<style>
-  .linkedin-logo {
-    width: 22%; /* Adjust the width as needed */
-  }
-</style>
-
-[![](LinkedInLogo.ico)](https://www.linkedin.com/in/douglasrandrade/)
+<div class="image-container">
+  <!-- LinkedIn link -->
+  <figure>
+    <img src="LinkedInLogo.ico" alt="LinkedIn_logo" class="linkedin-logo">
+    <figcaption>
+      [LinkedIn Profile](https://www.linkedin.com/in/douglasrandrade/)
+    </figcaption>
+  </figure>
+</div>
