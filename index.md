@@ -1,7 +1,5 @@
 ---
-title: |
-  Analytics Porfolio
-  Doug Andrade
+title: Analytics Porfolio<br>Doug Andrade
 description: A collection of personal analytical and machine learning projects 
 author: Doug Andrade
 ---
@@ -21,7 +19,7 @@ author: Doug Andrade
   }
 
   .image-container figure {
-    width: 22%; /* Adjust the width as needed */
+    width: 21%; /* Adjust the width as needed */
     margin: 10px 0;
     text-align: center;
   }
@@ -114,11 +112,10 @@ author: Doug Andrade
 - [Endangered Names Repository](https://github.com/dougrandrade/NamesRepo)
 
 <div class="image-container">
-  <!-- LinkedIn link -->
+  <!-- LinkedIn link with logo only, no caption -->
   <figure>
-    <img src="LinkedInLogo.ico" alt="LinkedIn_logo" class="linkedin-logo">
-    <figcaption>
-      [LinkedIn Profile](https://www.linkedin.com/in/douglasrandrade/)
-    </figcaption>
+    <a href="https://www.linkedin.com/in/douglasrandrade/">
+      <img src="LinkedInLogo.ico" alt="LinkedIn_logo" class="linkedin-logo">
+    </a>
   </figure>
 </div>
