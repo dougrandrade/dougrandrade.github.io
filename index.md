@@ -6,8 +6,32 @@ author: Doug Andrade
 
 <style>
   body {
-    max-width: 50000px; /* Adjust the width as needed */
+    max-width: 80%; /* Adjust the width as needed */
     margin: 0 auto; /* Center the content horizontally */
+  }
+</style>
+
+<style>
+  body {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+
+  .image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: -10px 0 20px;
+  }
+
+  .image-container figure {
+    width: 18%; /* Adjust the width as needed */
+    margin: 10px 0;
+    text-align: center;
+  }
+
+  .image-container img {
+    width: 100%;
   }
 </style>
 
