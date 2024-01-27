@@ -6,15 +6,8 @@ author: Doug Andrade
 
 <style>
   body {
-    max-width: 80%; /* Adjust the width as needed */
+    width: 80%; /* Adjust the width as needed */
     margin: 0 auto; /* Center the content horizontally */
-  }
-</style>
-
-<style>
-  body {
-    max-width: 200%;
-    margin: 0 auto;
   }
 
   .image-container {
@@ -22,6 +15,7 @@ author: Doug Andrade
     flex-wrap: wrap;
     justify-content: space-between;
     margin: -10px 0 20px;
+    max-width: 100%; /* Set the maximum width of the image container */
   }
 
   .image-container figure {
@@ -37,7 +31,7 @@ author: Doug Andrade
 
 ## **Who am I?**
 
-#### Graduate of: 1
+#### Graduate of: 2
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: -10px 0 20px;">
   <figure style="width:13%; margin: 10px 0;">
