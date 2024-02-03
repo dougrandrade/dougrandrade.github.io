@@ -1,8 +1,21 @@
 ---
-title: "Analytics Portfolio<br>Doug Andrade"
+title: "Analytics Portfolio<br>Doug Andrade *"
 description: "A collection of personal analytical and machine learning projects"
 author: Doug Andrade
 ---
+
+#### Projects:
+- [U.S. Endangered Names of Our Century](dougrandade/US_Name_Records/index.md)
+- [Virginia Electric Power Analysis for Solar Power Panel Investent](dougrandade/SolarPanelCostAnalysis/index.md)
+
+<div class="image-container">
+  <!-- LinkedIn link with logo only, no caption -->
+  <figure>
+    <a href="https://www.linkedin.com/in/douglasrandrade/">
+      <img src="LinkedInLogo.ico" alt="LinkedIn_logo" class="linkedin-logo">
+    </a>
+  </figure>
+</div>
 
   <style>
   body {
@@ -177,15 +190,4 @@ author: Doug Andrade
 
 
 
-#### Projects:
-- [U.S. Endangered Names of Our Century](/US_Name_Records/index.md) 
-- [Endangered Names Repository](https://github.com/dougrandrade/NamesRepo)
 
-<div class="image-container">
-  <!-- LinkedIn link with logo only, no caption -->
-  <figure>
-    <a href="https://www.linkedin.com/in/douglasrandrade/">
-      <img src="LinkedInLogo.ico" alt="LinkedIn_logo" class="linkedin-logo">
-    </a>
-  </figure>
-</div>
