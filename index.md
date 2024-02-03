@@ -19,7 +19,7 @@ author: Doug Andrade
   }
 
   .image-container figure {
-    width: 21%; /* Adjust the width as needed */
+    width: 20%; /* Adjust the width as needed */
     margin: 10px 0;
     text-align: center;
   }
