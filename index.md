@@ -30,7 +30,7 @@ author: Doug Andrade
 
 ## **Who am I?**
 <br>
-#### Graduate of:
+#### Graduate of: 0
 
 <div class="image-container">
   <!-- Image and caption 1 -->
