@@ -94,7 +94,7 @@ author: Doug Andrade
     <figcaption>
       2008-2011<br>
       VAW-120 Greyhawks<br>
-      E-2C Hawkeye Naval Flight Officer
+      E-2C Naval Flight Officer
     </figcaption>
   </figure>
 
@@ -102,7 +102,7 @@ author: Doug Andrade
     <img src="MAJIC_logo.png" alt="MAJIC_logo">
     <figcaption>
       2012<br>
-      Multi-TDL Advanced Joint Interoperabilityr<br>
+      Multi-TDL Advanced Joint Interoperability<br>
       Interface Control Officer
     </figcaption>
   </figure>
@@ -111,8 +111,8 @@ author: Doug Andrade
     <img src="MAWTS_logo.png" alt="MAWTS_logo">
     <figcaption>
       2012<br>
-      Marine Aviation Weapons and Tactics Squadron-1<br>
-      USMC Weapons & Tactics Instructor
+      MAWTS-1<br>
+      Weapons & Tactics Instructor
     </figcaption>
   </figure>
 
@@ -121,7 +121,7 @@ author: Doug Andrade
     <figcaption>
       2014<br>
       VAW-120 Greyhawks<br>
-      E-2C/D Naval Flight Officer Instructor
+      E-2C/D NFO Instructor
     </figcaption>
   </figure>
 </div>
