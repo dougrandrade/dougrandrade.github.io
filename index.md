@@ -1,5 +1,5 @@
 ---
-title: "Analytics Portfolio<br>Doug Andrade*"
+title: "Analytics Portfolio<br>Doug Andrade"
 description: "A collection of personal analytical and machine learning projects"
 author: Doug Andrade
 ---
@@ -32,7 +32,7 @@ author: Doug Andrade
 
 ## **Who am I?**
 <br>
-#### Graduate of:
+#### Education:
 
 <div class="image-container">
   <!-- Image and caption 1 -->
@@ -40,7 +40,9 @@ author: Doug Andrade
     <img src="NAPS_crest.png" alt="NAPS_crest">
     <figcaption>
       2003-2004<br>
-      Graduate, accepted to the Naval Academy</figcaption>
+      Naval Academy Prep School<br>
+      Appointment to the U.S. Naval Academy
+    </figcaption>
   </figure>
 
   <!-- Image and caption 2 -->
@@ -48,7 +50,9 @@ author: Doug Andrade
     <img src="USNA_crest.png" alt="USNA_crest">
     <figcaption>
       2004-2008<br>
-      Bachelor of Science in Political Science</figcaption>
+      Naval Academy<br>
+      Bachelor of Science in Political Science
+    </figcaption>
   </figure>
 
   <!-- Image and caption 3 -->
@@ -56,7 +60,9 @@ author: Doug Andrade
     <img src="W&M_B_logo.png" alt="W&M_crest">
     <figcaption>
       2016-2021<br>
-      Master of Business Administration</figcaption>
+      College of William & Mary<br>
+      Master of Business Administration
+    </figcaption>
   </figure>
 
   <!-- Image and caption 4 -->
@@ -64,7 +70,9 @@ author: Doug Andrade
     <img src="W&M_B_logo.png" alt="W&M_crest">
     <figcaption>
       2021-2023<br>
-      Master of Science in Business Analytics</figcaption>
+      College of William & Mary<br>
+      Master of Science in Business Analytics
+    </figcaption>
   </figure>
 
   <!-- Image and caption 5 -->
@@ -72,52 +80,95 @@ author: Doug Andrade
     <img src="NPS_crest.png" alt="NPS_crest">
     <figcaption>
       2023-2024<br>
-      Prospective Data Science Certification</figcaption>
+      Naval Postgraduate School<br>
+      Prospective Data Science Certification
+    </figcaption>
   </figure>
 </div>
 
-#### Dedicated Naval Officer:
+#### Military Qualified and Trained:
 
 <div class="image-container">
   <figure>
     <img src="NFO_wings.png" alt="NFO_wings">
     <figcaption>
-      2008-2011<br> 
-      Qualified Naval Flight Officer</figcaption>
+      2008-2011<br>
+      Qualified Naval Flight Officer<br>
+      E-2C Hawkeye
+    </figcaption>
   </figure>
 
   <figure>
+    <img src="NFO_wings.png" alt="NFO_wings">
+    <figcaption>
+      2012<br>
+      Multi-TDL Advanced Joint Interoperabilityr<br>
+      Tactical Data Link Subject Matter Expert
+    </figcaption>
+  </figure>
+
+  <figure>
+    <img src="NFO_wings.png" alt="NFO_wings">
+    <figcaption>
+      2012<br>
+      Marine Aviation Weapons and Tactics Squadron-1<br>
+      USMC Weapons & Tactics Instructor
+    </figcaption>
+  </figure>
+</div>
+
+#### Experienced Naval Officer:
+
+<div class="image-container">
+  <figure>
     <img src="VAW124_E-2.png" alt="VAW-124_E-2">
     <figcaption>
-      2011-2016<br> 
-      VAW-124 Instructor & Mission Commander</figcaption>
+      2011-2014<br> 
+      VAW-124 Bear Aces<br>
+      Mission Commander & Instructor
+    </figcaption>
+  </figure>
+
+  <figure>
+    <img src="VAW120_E-2.png" alt="VAW-124_E-2">
+    <figcaption>
+      2014-2017<br> 
+      VAW-120 Bear Aces<br>
+      E-2C/D NFO Instructor
+    </figcaption>
   </figure>
 
   <figure>
     <img src="CVN72_logo.png" alt="W&M_crest">
     <figcaption>
       2017-2019<br> 
-      CVN72 Tactical Action Officer - 2nd/5th/6th Fleets</figcaption>
+      USS Abraham Lincoln CVN72<br>
+      Tactical Action Officer
+    </figcaption>
   </figure>
 
   <figure>
     <img src="VAW120_E-2.png" alt="VAW-120_E-2">
     <figcaption>
       2019-2022<br> 
-      VAW-120 Instructor and Department Head</figcaption>
+      VAW-120 Greyhawks<br>
+      Instructor and Department Head
+    </figcaption>
   </figure>
 
   <figure>
     <img src="OPNAV_N2N6_logo.png" alt="OPNAV_N2N6_logo">
     <figcaption>
       2022-Present<br> 
-      OPNAV N2N6 ATDL Requirements Officer</figcaption>
+      OPNAV N2N6 Information Warfare<br>
+      ATDL Requirements Officer
+    </figcaption>
   </figure>
 </div>
 
 
 
-#### Content I have developed:
+#### Projects:
 - [U.S. Endangered Names of Our Century](/US_Name_Records/index.md) 
 - [Endangered Names Repository](https://github.com/dougrandrade/NamesRepo)
 
