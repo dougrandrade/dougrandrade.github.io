@@ -1,5 +1,5 @@
 ---
-title: "Analytics Portfolio<br>Doug Andrade"
+title: "Analytics Portfolio<br>Doug Andrade*"
 description: "A collection of personal analytical and machine learning projects"
 author: Doug Andrade
 ---
@@ -19,7 +19,7 @@ author: Doug Andrade
   }
 
   .image-container figure {
-    width: 20%; /* Adjust the width as needed */
+    width: 18%; /* Adjust the width as needed */
     margin: 10px 0;
     text-align: center;
   }
@@ -32,37 +32,47 @@ author: Doug Andrade
 
 ## **Who am I?**
 <br>
-#### Graduate of: 1
+#### Graduate of:
 
 <div class="image-container">
   <!-- Image and caption 1 -->
   <figure>
     <img src="NAPS_crest.png" alt="NAPS_crest">
-    <figcaption>2003-2004 Graduate, accepted to the Naval Academy</figcaption>
+    <figcaption>
+      2003-2004<br>
+      Graduate, accepted to the Naval Academy</figcaption>
   </figure>
 
   <!-- Image and caption 2 -->
   <figure>
     <img src="USNA_crest.png" alt="USNA_crest">
-    <figcaption>2004-2008 Bachelor of Science in Political Science</figcaption>
+    <figcaption>
+      2004-2008<br>
+      Bachelor of Science in Political Science</figcaption>
   </figure>
 
   <!-- Image and caption 3 -->
   <figure>
     <img src="W&M_B_logo.png" alt="W&M_crest">
-    <figcaption>2016-2021 Master of Business Administration</figcaption>
+    <figcaption>
+      2016-2021<br>
+      Master of Business Administration</figcaption>
   </figure>
 
   <!-- Image and caption 4 -->
   <figure>
     <img src="W&M_B_logo.png" alt="W&M_crest">
-    <figcaption>2011-2023 Master of Science in Business Analytics</figcaption>
+    <figcaption>
+      2021-2023<br>
+      Master of Science in Business Analytics</figcaption>
   </figure>
 
   <!-- Image and caption 5 -->
   <figure>
     <img src="NPS_crest.png" alt="NPS_crest">
-    <figcaption>2023-2024 Prospective Data Science Certification</figcaption>
+    <figcaption>
+      2023-2024<br>
+      Prospective Data Science Certification</figcaption>
   </figure>
 </div>
 
@@ -72,35 +82,35 @@ author: Doug Andrade
   <figure>
     <img src="NFO_wings.png" alt="NFO_wings">
     <figcaption>
-      2008-2011 
+      2008-2011<br> 
       Qualified Naval Flight Officer</figcaption>
   </figure>
 
   <figure>
     <img src="VAW124_E-2.png" alt="VAW-124_E-2">
     <figcaption>
-      2011-2016 
+      2011-2016<br> 
       VAW-124 Instructor & Mission Commander</figcaption>
   </figure>
 
   <figure>
     <img src="CVN72_logo.png" alt="W&M_crest">
     <figcaption>
-      2017-2019 
-      CVN72 Tactical Action Officer - 6th/5th Fleets</figcaption>
+      2017-2019<br> 
+      CVN72 Tactical Action Officer - 2nd/5th/6th Fleets</figcaption>
   </figure>
 
   <figure>
     <img src="VAW120_E-2.png" alt="VAW-120_E-2">
     <figcaption>
-      2019-2022 
+      2019-2022<br> 
       VAW-120 Instructor and Department Head</figcaption>
   </figure>
 
   <figure>
     <img src="OPNAV_N2N6_logo.png" alt="OPNAV_N2N6_logo">
     <figcaption>
-      2022-Present 
+      2022-Present<br> 
       OPNAV N2N6 ATDL Requirements Officer</figcaption>
   </figure>
 </div>
