@@ -1,11 +1,11 @@
 ---
-title: "Analytics Portfolio<br>Doug Andrad"
+title: "Analytics Portfolio<br>Doug Andrade"
 description: "A collection of personal analytical and machine learning projects"
 author: Doug Andrade
 ---
 
 #### Projects:
-- [U.S. Endangered Names of Our Century](dougrandade/US_Name_Records/index.md)
+- [U.S. Endangered Names of Our Century](US_Name_Records/index.md)
 - [Virginia Electric Power Analysis for Solar Power Panel Investent]([dougrandade/SolarPanelCostAnalysis/index.md](https://github.com/dougrandrade/SolarPanelCostAnalysis/blob/main/index.md))
 
 <div class="image-container">
