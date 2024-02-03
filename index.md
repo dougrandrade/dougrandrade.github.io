@@ -26,8 +26,7 @@ author: Doug Andrade
   .image-container figcaption {
     font-size: 12px; /* Adjust the font size as needed */
   }
-  
-</style>
+
 
 ## **Who am I?**
 <br>
