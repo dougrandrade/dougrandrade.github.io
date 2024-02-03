@@ -3,28 +3,6 @@ title: "Analytics Portfolio<br>Doug Andrade"
 description: "A collection of personal analytical and machine learning projects"
 author: Doug Andrade
 ---
-<style>
-  /* ... (existing styles) */
-
-  .title-container {
-    text-align: center;
-    line-height: 1.2; /* Adjust line height as needed */
-  }
-
-  .title-line1 {
-    font-size: 24px; /* Adjust font size as needed */
-    font-weight: bold;
-  }
-
-  .title-line2 {
-    font-size: 15px; /* Adjust font size as needed */
-  }
-</style>
-
-<div class="title-container">
-  <div class="title-line1">Analytics Portfolio</div>
-  <div class="title-line2">Doug Andrade</div>
-</div>v
 
   body {
     width: 80%; /* Adjust the width as needed */
@@ -53,7 +31,7 @@ author: Doug Andrade
 
 ## **Who am I?**
 <br>
-#### Graduate of: 0
+#### Graduate of:
 
 <div class="image-container">
   <!-- Image and caption 1 -->
