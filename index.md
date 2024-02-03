@@ -93,26 +93,35 @@ author: Doug Andrade
     <img src="NFO_wings.png" alt="NFO_wings">
     <figcaption>
       2008-2011<br>
-      Qualified Naval Flight Officer<br>
-      E-2C Hawkeye
+      VAW-120 Greyhawks<br>
+      E-2C Hawkeye Naval Flight Officer
     </figcaption>
   </figure>
 
   <figure>
-    <img src="NFO_wings.png" alt="NFO_wings">
+    <img src="MAJIC_logo.png" alt="MAJIC_logo">
     <figcaption>
       2012<br>
       Multi-TDL Advanced Joint Interoperabilityr<br>
-      Tactical Data Link Subject Matter Expert
+      Interface Control Officer
     </figcaption>
   </figure>
 
   <figure>
-    <img src="NFO_wings.png" alt="NFO_wings">
+    <img src="MAWTS_logo.png" alt="MAWTS_logo">
     <figcaption>
       2012<br>
       Marine Aviation Weapons and Tactics Squadron-1<br>
       USMC Weapons & Tactics Instructor
+    </figcaption>
+  </figure>
+
+  <figure>
+    <img src="FRS_logo.png" alt="FRS_logo">
+    <figcaption>
+      2014<br>
+      VAW-120 Greyhawks<br>
+      E-2C/D Naval Flight Officer Instructor
     </figcaption>
   </figure>
 </div>
@@ -125,7 +134,7 @@ author: Doug Andrade
     <figcaption>
       2011-2014<br> 
       VAW-124 Bear Aces<br>
-      Mission Commander & Instructor
+      Division Officer & Mission Commander
     </figcaption>
   </figure>
 
@@ -133,8 +142,8 @@ author: Doug Andrade
     <img src="VAW120_E-2.png" alt="VAW-124_E-2">
     <figcaption>
       2014-2017<br> 
-      VAW-120 Bear Aces<br>
-      E-2C/D NFO Instructor
+      VAW-120 Greyhawks<br>
+      Division Officer & Instructor
     </figcaption>
   </figure>
 
@@ -152,7 +161,7 @@ author: Doug Andrade
     <figcaption>
       2019-2022<br> 
       VAW-120 Greyhawks<br>
-      Instructor and Department Head
+      Department Head
     </figcaption>
   </figure>
 
