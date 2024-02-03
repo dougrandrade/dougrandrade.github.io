@@ -4,6 +4,7 @@ description: "A collection of personal analytical and machine learning projects"
 author: Doug Andrade
 ---
 
+  <style>
   body {
     width: 80%; /* Adjust the width as needed */
     margin: 0 auto; /* Center the content horizontally */
@@ -22,15 +23,16 @@ author: Doug Andrade
     margin: 10px 0;
     text-align: center;
   }
-  
+
   .image-container figcaption {
     font-size: 12px; /* Adjust the font size as needed */
   }
+</style>
 
 
 ## **Who am I?**
 <br>
-#### Graduate of: 0
+#### Graduate of: 1
 
 <div class="image-container">
   <!-- Image and caption 1 -->
