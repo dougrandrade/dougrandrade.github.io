@@ -6,7 +6,7 @@ author: Doug Andrade
 
 #### Projects:
 - [U.S. Endangered Names of Our Century](US_Name_Records/index.md)
-- [Virginia Electric Power Analysis for Solar Power Panel Investent]([dougrandade/SolarPanelCostAnalysis/index.md](https://github.com/dougrandrade/SolarPanelCostAnalysis/blob/main/index.md))
+- [U.S. & Virginia Electric Power Analysis for Solar Power Panel Investent](Electric_Cost_Analysis/index.md)
 
 <div class="image-container">
   <!-- LinkedIn link with logo only, no caption -->
