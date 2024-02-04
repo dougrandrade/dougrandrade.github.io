@@ -1,10 +1,10 @@
 ---
-title: Electricity Cost Analysis in the U.S. and Virginia *
+title: Electricity Cost Analysis in the U.S. and Virginia
 description: Electricity economic indicator analysis for solar panel investment (1979-2022)
 ---
 Below is the Markdown files and the database:
 - [Electricy Cost Analysis report (Markdown)]()
-- [Analysis R code]("https://github.com/dougrandrade/SolarPanelCostAnalysis/blob/2653c7a6d681581743ad91a5be4a83d099478701/electricity_price_analysis.R")
+- [Analysis R code]("https://raw.githubusercontent.com/dougrandrade/SolarPanelCostAnalysis/main/electricity_price_analysis.R")
 
 Database Sources:
 - [U.S. Bureau of Labor Statistics - U.S. Electricity Prices (1979-2023)](https://data.bls.gov/timeseries/APU000072610?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true)
