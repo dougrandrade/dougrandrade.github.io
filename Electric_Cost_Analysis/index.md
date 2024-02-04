@@ -4,7 +4,7 @@ description: Electricity economic indicator analysis for solar panel investment 
 ---
 Below is the Markdown files and the database:
 - [Electricy Cost Analysis report (Markdown)]()
-- [Analysis R code]("https://raw.githubusercontent.com/dougrandrade/SolarPanelCostAnalysis/main/electricity_price_analysis.R")
+- [Analysis R code]()
 
 Database Sources:
 - [U.S. Bureau of Labor Statistics - U.S. Electricity Prices (1979-2023)](https://data.bls.gov/timeseries/APU000072610?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true)
