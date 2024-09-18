@@ -15,15 +15,16 @@ Convolutional neural network for multi-classification image recognition of dog e
 [LinkedIn Profile Link](https://www.linkedin.com/in/douglasrandrade/)
 
 ## Education
-- Naval Academy Preparatory School (2004)
+- Naval Academy Appointment (2004)
+  - [Naval Academy Preparatory School](NAPS_logo.png)
 - Bachelor of Science in Political Science (2008)
-  - United States Naval Academy
+  - [United States Naval Academy](/images/USNA_crest.png)
 - Master of Business Administration (2021)
-  - College of William & Mary
+  - [College of William & Mary](W&M_B_logo.png)
 - Master of Science in Business Analytics (2023)
--   - College of William & Mary
+-   [College of William & Mary](W&M_B_logo.png)
 - Certificate of Data Science (December 2024)
-  - Naval Postgraduate School
+  - [Naval Postgraduate School](NPS_crest.npg)
 
 ## Military Training
 - E-2C Naval Flight Officer (NFO) (2011)
