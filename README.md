@@ -4,12 +4,12 @@
 ## Projects
 **Interactive RShiny dashboard of the U.S. Social Security Administration's most popular baby names since 1880**
 - [RShiny Dashboard](https://drandrade.shinyapps.io/shiny/)
-- [Rshiny Code](app.R)
+- [Rshiny Code](https://github.com/dougrandrade/NamesRepo/blob/main/app.R)
 - [Database](https://www.ssa.gov/oact/babynames/names.zip)
 
 **Convolutional neural network for multi-classification image recognition of dog emotions**
 - [Medium Article](https://medium.com/@doug.r.andrade/what-is-your-dog-feeling-f02e85b56edb)
-- [Jupyter Notebook](Perogi_Emotions_CNN.ipynb)
+- [Jupyter Notebook](https://github.com/dougrandrade/Dog_Emotions_CNN_Repo/blob/main/Perogi_Emotions_CNN.ipynb))
 - [Database](https://doi.org/10.34740/KAGGLE/DSV/8330954)
 
 [LinkedIn Profile Link](https://www.linkedin.com/in/douglasrandrade/)
