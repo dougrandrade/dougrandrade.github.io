@@ -2,12 +2,12 @@
 
 
 ## Projects
-Interactive RShiny dashboard of the U.S. Social Security Administration's most popular baby names since 1880
+**Interactive RShiny dashboard of the U.S. Social Security Administration's most popular baby names since 1880**
 - [RShiny Dashboard](https://drandrade.shinyapps.io/shiny/)
 - [Rshiny Code](app.R)
 - [Database](https://www.ssa.gov/oact/babynames/names.zip)
 
-Convolutional neural network for multi-classification image recognition of dog emotions
+**Convolutional neural network for multi-classification image recognition of dog emotions**
 - [Medium Article](https://medium.com/@doug.r.andrade/what-is-your-dog-feeling-f02e85b56edb)
 - [Jupyter Notebook](Perogi_Emotions_CNN.ipynb)
 - [Database](https://doi.org/10.34740/KAGGLE/DSV/8330954)
@@ -20,9 +20,9 @@ Convolutional neural network for multi-classification image recognition of dog e
 - Bachelor of Science in Political Science (2008)
   - United States Naval Academy
 - Master of Business Administration (2021)
-  - College of William & Mary Raymond A. Mason School of Business
+  - College of William & Mary
 - Master of Science in Business Analytics (2023)
-  - College of William & Mary Raymond A. Mason School of Business
+  - College of William & Mary
 - Certificate of Data Science (December 2024)
   - Naval Postgraduate School
 
@@ -35,7 +35,7 @@ Convolutional neural network for multi-classification image recognition of dog e
   - MAWTS-1
 - E-2C/D Naval Flight Officer Instructor (2014)
   - VAW-120 Greyhawks
-- Joint Capabilities Integration and Development System Requirements Manager (2022)
+- Joint Capabilities Integration & Development System (2022)
   - Defense Acquisition University
 
 ## Military Tours of Duty
