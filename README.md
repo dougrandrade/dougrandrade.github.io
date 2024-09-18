@@ -4,27 +4,27 @@
 ## Projects
 Interactive RShiny dashboard of the U.S. Social Security Administration's most popular baby names since 1880
 - [RShiny Dashboard](https://drandrade.shinyapps.io/shiny/)
-- [Rshiny Code]
+- [Rshiny Code](app.R)
 - [Database](https://www.ssa.gov/oact/babynames/names.zip)
 
 Convolutional neural network for multi-classification image recognition of dog emotions
 - [Medium Article](https://medium.com/@doug.r.andrade/what-is-your-dog-feeling-f02e85b56edb)
-- [Jupyter Notebook]
+- [Jupyter Notebook](Perogi_Emotions_CNN.ipynb)
 - [Database](https://doi.org/10.34740/KAGGLE/DSV/8330954)
 
 [LinkedIn Profile Link](https://www.linkedin.com/in/douglasrandrade/)
 
 ## Education
 - Naval Academy Appointment (2004)
-  - ![Naval Academy Preparatory School](/images/NAPS_crest.png)
+  - Naval Academy Preparatory School
 - Bachelor of Science in Political Science (2008)
-  - ![United States Naval Academy](/images/USNA_crest.png)
+  - United States Naval Academy
 - Master of Business Administration (2021)
-  - ![College of William & Mary](/images/W&M_crest.png)
+  - College of William & Mary
 - Master of Science in Business Analytics (2023)
--   ![College of William & Mary](/images/W&M_crest.png)
+-   College of William & Mary
 - Certificate of Data Science (December 2024)
-  - ![Naval Postgraduate School](/images/NPS_crest.png)
+  - Naval Postgraduate School
 
 ## Military Training
 - E-2C Naval Flight Officer (NFO) (2011)
