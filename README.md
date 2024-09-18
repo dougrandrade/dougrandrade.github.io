@@ -20,30 +20,32 @@ Convolutional neural network for multi-classification image recognition of dog e
 - Bachelor of Science in Political Science (2008)
   - United States Naval Academy
 - Master of Business Administration (2021)
-  - College of William & Mary
+  - College of William & Mary Raymond A. Mason School of Business
 - Master of Science in Business Analytics (2023)
--   College of William & Mary
+  - College of William & Mary Raymond A. Mason School of Business
 - Certificate of Data Science (December 2024)
   - Naval Postgraduate School
 
 ## Military Training
-- E-2C Naval Flight Officer (NFO) (2011)
-  - VAW-120 Greyhawks Fleet Replacement Squadron
+- E-2C Naval Flight Officer (2011)
+  - Naval Flight School at VT-4 Warbucks and VAW-120 Greyhawks
 - Interface Control Officer (2012)
   - Multi-Tactical Data Link Advanced Joint Interoperability Course 
-- Marine Corps Aviation Weapons & Tactics Instructor (2012)
+- Marine Aviation Weapons & Tactics Instructor (2012)
   - MAWTS-1
-- E-2C/D NFO Instructor (2014)
-  - VAW-120 Greyhawks 
+- E-2C/D Naval Flight Officer Instructor (2014)
+  - VAW-120 Greyhawks
+- Joint Capabilities Integration and Development System Requirements Manager (2022)
+  - Defense Acquisition University
 
 ## Military Tours of Duty
 - Mission Commander and Division Officer (2011-2014)
   - VAW-124 Bear Aces 
-- NFO Instructor and Division Officer (2014-2017)
+- Naval Flight Officer Instructor and Division Officer (2014-2017)
   - VAW-120 Greyhawks Fleet Replacement Squadron
 - Tactical Action Officer and Division Officer (2017-2019)
   - USS Abraham Lincoln CVN 72
-- Department Head and NFO Instructor (2019-2022)
+- Department Head and Naval Flight Officer Instructor (2019-2022)
   - VAW-120 Greyhawks Fleet Replacement Squadron
 - Requirements and Resources Officer (2022-Present)
-  - OPNAV N2N6 Information Warfare
+  - OPNAV N2N6 Information Warfare Division
