@@ -47,5 +47,5 @@
   - USS Abraham Lincoln CVN 72
 - Department Head and Naval Flight Officer Instructor (2019-2022)
   - VAW-120 Greyhawks Fleet Replacement Squadron
-- Requirements and Resources Officer (2022-Present)
+- Requirements Manager (2022-Present)
   - OPNAV N2N6 Information Warfare Division
