@@ -20,9 +20,9 @@ Convolutional neural network for multi-classification image recognition of dog e
 - Bachelor of Science in Political Science (2008)
   - ![United States Naval Academy](/images/USNA_crest.png)
 - Master of Business Administration (2021)
-  - ![College of William & Mary](/images/W&M_B_logo.png)
+  - ![College of William & Mary](/images/W&M_crest.png)
 - Master of Science in Business Analytics (2023)
--   ![College of William & Mary](/images/W&M_B_logo.png)
+-   ![College of William & Mary](/images/W&M_crest.png)
 - Certificate of Data Science (December 2024)
   - ![Naval Postgraduate School](/images/NPS_crest.png)
 
