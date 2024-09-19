@@ -1,5 +1,9 @@
 title: Doug Andrade
 logo: /images/profile_circle.png
-description: A collection of personal analytical, machine learning projects, and professional experience<p>[LInkedIn Profile](https://www.linkedin.com/in/douglasrandrade/)
+description: A collection of personal analytical, machine learning projects, and professional experience
 show_downloads: true
 theme: jekyll-theme-minimal
+
+social:
+  Linkedn: https://www.linkedin.com/in/douglasrandrade/
+
