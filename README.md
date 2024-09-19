@@ -4,7 +4,7 @@
 ## Projects
 **Interactive RShiny dashboard of the U.S. Social Security Administration's most popular baby names since 1880**
 - [RShiny Dashboard](https://drandrade.shinyapps.io/shiny/)
-- [GitHub Repository - app.R](https://github.com/dougrandrade/NamesRepo)
+- [GitHub Repository - app.R]([https://github.com/dougrandrade/NamesRepo](https://github.com/dougrandrade/US_Names_Analysis_Repo))
 - [Database](https://www.ssa.gov/oact/babynames/names.zip)
 
 **Convolutional neural network for multi-classification image recognition of dog emotions**
