@@ -5,6 +5,7 @@
 ## Projects
 **Interactive RShiny dashboard of the U.S. Social Security Administration's most popular baby names since 1880**
 - [RShiny Dashboard](https://drandrade.shinyapps.io/RShiny/)
+- [Medium Article](https://medium.com/@doug.r.andrade/the-rise-and-fall-of-your-name-a-tale-of-discovery-in-rshiny-2a6787e612df)
 - [GitHub Repository - RShiny](https://github.com/dougrandrade/US_Names_Analysis_Repo)
 - [Database](https://www.ssa.gov/oact/babynames/names.zip)
 
