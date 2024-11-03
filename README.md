@@ -14,6 +14,12 @@
 - [GitHub Repository - Perogi_Emotions_CNN.ipynb](https://github.com/dougrandrade/Dog_Emotions_CNN_Repo)
 - [Database](https://doi.org/10.34740/KAGGLE/DSV/8330954)
 
+## Technical Skills
+- *Languages*: Python, R
+- *Business Intelligence*: Office 365 applications, Tableau, RShiny
+- *Decision Science*: Time-Series, Forecasting, Linear Programming and Optimization, Monte-Carlo Simulation
+- *Machine Learning*: Linear Regression, Classification, Tree-Based Methods, Support Vector Machines, Neural Networks, Unsupervised Methods
+
 ## Education
 - Certificate of Data Science (December 2024)
   - Naval Postgraduate School
@@ -38,7 +44,7 @@
 - E-2C Naval Flight Officer (2011)
   - Naval Flight School at VT-4 Warbucks and VAW-120 Greyhawks
 
-## Military Tours of Duty
+## Military Experience
 - Requirements Manager (2022-Present)
   - OPNAV N2N6 Information Warfare Division
 - Department Head and Naval Flight Officer Instructor (2019-2022)
