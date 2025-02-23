@@ -3,18 +3,17 @@
 [LinkedIn Profile](https://www.linkedin.com/in/douglasrandrade/)
 
 ---
----
 
 ## Projects
 **Interactive RShiny dashboard of the U.S. Social Security Administration's most popular baby names since 1880**
 - [RShiny Dashboard](https://drandrade.shinyapps.io/RShiny/)
-- [Medium Article](https://medium.com/@doug.r.andrade/the-rise-and-fall-of-your-name-a-tale-of-discovery-in-rshiny-2a6787e612df)
+- [Medium Article - The Rise and Fall of Your Name: A Tale of Discovery in RShiny](https://medium.com/@doug.r.andrade/the-rise-and-fall-of-your-name-a-tale-of-discovery-in-rshiny-2a6787e612df)
 - [GitHub Repository - RShiny](https://github.com/dougrandrade/US_Names_Analysis_Repo)
 - [Database](https://www.ssa.gov/oact/babynames/names.zip)
 
 **Convolutional neural network for multi-classification image recognition of dog emotions**
-- [Medium Article](https://medium.com/@doug.r.andrade/what-is-your-dog-feeling-f02e85b56edb)
-- [GitHub Repository - Perogi_Emotions_CNN.ipynb](https://github.com/dougrandrade/Dog_Emotions_CNN_Repo)
+- [Medium Article - From Pixels to Feelings: Using CNNs to Decode Canine Emotions through Transfer Learning](https://medium.com/@doug.r.andrade/what-is-your-dog-feeling-f02e85b56edb)
+- [GitHub Repository - Rogi_Emotions_CNN.ipynb](https://github.com/dougrandrade/Dog_Emotions_CNN_Repo)
 - [Database](https://doi.org/10.34740/KAGGLE/DSV/8330954)
 
 ---
